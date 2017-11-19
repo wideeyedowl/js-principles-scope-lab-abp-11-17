@@ -17,4 +17,8 @@ return customerName;
    bestCustomer = 'maybe bob';
  }
 
-const 
+const leastFavoriteCustomer = 'me';
+function changeLeastFavoriteCustomer()
+{
+  leastFavoriteCustomer = 'him';
+}
