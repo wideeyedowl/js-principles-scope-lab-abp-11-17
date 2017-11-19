@@ -1,4 +1,4 @@
-// Write your solution in this file!
+e// Write your solution in this file!
 var customerName = 'bob';
 
 function upperCaseCustomerName()
@@ -12,5 +12,5 @@ function upperCaseCustomerName()
 
  function overwriteBestCustomer()
  {
-   bestCustomer = 'Sarah';
+   bestCustomer = 'maybe bob';
  }
